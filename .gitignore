@@ -46,6 +46,4 @@ ayudas_y_recursos/
 .ipynb_checkpoints/
 .cache.sqlite
 
-requirements.txt
-requirements_temp.txt
 node_modules
